@@ -1,0 +1,6 @@
+{
+  "name": "Meridian Talent",
+  "description": "Direct international job board and candidate application portal with zero candidate fees, transparent compensation bands, and application tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
